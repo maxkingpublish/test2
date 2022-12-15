@@ -37,6 +37,5 @@ git config --global user.name "你的名字"
 2.personal access tocken:tokens
 3.Generate new tokens
 4.權限全勾>generate tokens
-5.tokens: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
 
 
