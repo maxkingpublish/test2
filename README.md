@@ -36,11 +36,11 @@ print("Aloha")
 # Download others log
 1.gitk==>N<br/>
 2.git log ==>N<br/>
-3.git clone https://github.com/JuFengWu/image_process.git<br/>
+3.git clone [this website](https://github.com/JuFengWu/image_process.git)<br/>
 
 
 # upload to github
-1.https://github.com/settings/apps<br/>
+1.[this website](https://github.com/settings/apps)<br/>
 2.personal access tocken:tokens<br/>
 3.Generate new tokens<br/>
 4.權限全勾>generate tokens<br/>
