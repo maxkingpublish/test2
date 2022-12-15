@@ -7,10 +7,10 @@ git config --global user.name "你的名字"
 5.git commit -m ""
 6.git --version
 
-ˋˋˋ
+```
 import cv2
 print("Aloha")
-ˋˋˋ
+```
 
 
 # Version Check
