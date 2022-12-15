@@ -1,4 +1,5 @@
 # Git command
+![https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU=w480-h960-rw]
 
 1.git init<br/>
 2.git status<br/>
