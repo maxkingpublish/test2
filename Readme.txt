@@ -1,4 +1,4 @@
-Git command
+# Git command
 1.git init
 2.git status
 3.git add .
@@ -7,7 +7,7 @@ git config --global user.name "你的名字"
 5.git commit -m ""
 6.git --version
 
-Version Check
+# Version Check
 1.Editor new version
 2.git status==>Red char
 3.git add .
@@ -17,22 +17,22 @@ Version Check
 7.gitk
 
 
-Reback to the past Version 
+# Reback to the past Version 
 1.git log
 2.copy the version code
 3.git reset --hard "code"
 
 
-delete file
+# delete file
 *rm -r "file name"
 
-Download others log
+# Download others log
 1.gitk==>N
 2.git log ==>N
 3.git clone https://github.com/JuFengWu/image_process.git
 
 
-upload to github
+# upload to github
 1.https://github.com/settings/apps
 2.personal access tocken:tokens
 3.Generate new tokens
