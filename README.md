@@ -1,11 +1,12 @@
 # Git command
-1.git init
-2.git status
-3.git add .
-4.git config --global user.email "你的email"
-git config --global user.name "你的名字"
-5.git commit -m ""
-6.git --version
+
+1.git init<br/>
+2.git status<br/>
+3.git add .<br/>
+4.git config --global user.email "你的email"<br/>
+git config --global user.name "你的名字"<br/>
+5.git commit -m ""<br/>
+6.git --version<br/>
 
 ```
 import cv2
@@ -14,34 +15,34 @@ print("Aloha")
 
 
 # Version Check
-1.Editor new version
-2.git status==>Red char
-3.git add .
-4.git commit -m "V2"
-5.git status
-6.git log
-7.gitk
+1.Editor new version<br/>
+2.git status==>Red char<br/>
+3.git add .<br/>
+4.git commit -m "V2"<br/>
+5.git status<br/>
+6.git log<br/>
+7.gitk<br/>
 
 
 # Reback to the past Version 
-1.git log
-2.copy the version code
-3.git reset --hard "code"
+1.git log<br/>
+2.copy the version code<br/>
+3.git reset --hard "code"<br/>
 
 
 # delete file
-*rm -r "file name"
+*rm -r "file name"<br/>
 
 # Download others log
-1.gitk==>N
-2.git log ==>N
-3.git clone https://github.com/JuFengWu/image_process.git
+1.gitk==>N<br/>
+2.git log ==>N<br/>
+3.git clone https://github.com/JuFengWu/image_process.git<br/>
 
 
 # upload to github
-1.https://github.com/settings/apps
-2.personal access tocken:tokens
-3.Generate new tokens
-4.權限全勾>generate tokens
+1.https://github.com/settings/apps<br/>
+2.personal access tocken:tokens<br/>
+3.Generate new tokens<br/>
+4.權限全勾>generate tokens<br/>
 
 
