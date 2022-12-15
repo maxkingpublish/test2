@@ -1,6 +1,5 @@
 # Git command
-![https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU=w480-h960-rw]
-
+![pic](https://miro.medium.com/max/1400/1*SSRjtoQ0H2X3SBPOiJ5rZw.jpeg)
 1.git init<br/>
 2.git status<br/>
 3.git add .<br/>
